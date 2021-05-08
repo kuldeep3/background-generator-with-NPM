@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kuldeep3/background-generator2#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   }
 }
